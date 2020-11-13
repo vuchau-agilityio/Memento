@@ -57,4 +57,6 @@ class Caretaker<T> {
       _mementos.removeLast()..restore();
     }
   }
+
+  bool get hasMemento => _mementos.isNotEmpty;
 }

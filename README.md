@@ -60,4 +60,4 @@ void main() {
 
 ### How to install?
 
-Add `memento: 1.0.0` on your pubspec.yaml
+Add `memento: 1.0.1` on your pubspec.yaml
